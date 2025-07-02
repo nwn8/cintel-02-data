@@ -40,7 +40,7 @@ app_ui = ui.page_fluid(
             ui.hr(),
             ui.a(
                 "GitHub Repo",
-                href="https://github.com/abeaderstadt/cintel-02-data",
+                href="https://github.com/nwn8/cintel-02-data",
                 target="_blank",
             ),
             open="open"
